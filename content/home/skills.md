@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Genomics"
   description = ""
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
   description = ""
 
 +++
