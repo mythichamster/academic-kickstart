@@ -10,8 +10,8 @@ authors:
 - Freire R
 - Cohen PE
 - Grimson A
-date: "2015-06-00T00:00:00Z"
-doi: "10.1242/jcs.167148 [doi]"
+date: "2015-06-15T00:00:00Z"
+doi: "10.1242/jcs.167148 "
 
 # Schedule page publish date (NOT publication date).
 publishDate: ""
@@ -69,12 +69,3 @@ projects: []
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

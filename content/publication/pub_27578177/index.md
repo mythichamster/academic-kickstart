@@ -1,46 +1,12 @@
 ---
-title: "Gliomas arising in the setting of Li-Fraumeni syndrome stratify into two molecular subgroups with divergent clinicopathologic features."
+title: "The roles of microRNAs and siRNAs in mammalian spermatogenesis."
 authors:
-- Sloan EA
 - Hilz S
-- Gupta R
-- Cadwell C
-- Ramani B
-- Hofmann J
-- Kline CN
-- Banerjee A
-- Reddy A
-- Oberheim Bush NA
-- Chang S
-- Braunstein S
-- Chang EF
-- Raffel C
-- Gupta N
-- Sun PP
-- Kim JYH
-- Moes G
-- Alva E
-- Li R
-- Bruggers CS
-- Alashari M
-- Wetmore C
-- Garg S
-- Dishop M
-- Van Ziffle J
-- Onodera C
-- Devine P
-- Grenert JP
-- Lee JC
-- Phillips JJ
-- Pekmezci M
-- Tihan T
-- Bollen AW
-- Berger MS
-- Costello JF
-- Perry A
-- Solomon DA
-date: "2020-05-01T00:00:00Z"
-doi: "10.1007/s00401-020-02144-8 [doi]"
+- Modzelewski AJ
+- Cohen PE
+- Grimson A
+date: "2016-09-01T00:00:00Z"
+doi: "10.1242/dev.136721 "
 
 # Schedule page publish date (NOT publication date).
 publishDate: ""
@@ -52,10 +18,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Acta Neuropathol;139*(5):953-957"
+publication: "*Development;143*(17):3061-73"
 publication_short: ""
 
-abstract: 
+abstract: MicroRNAs and siRNAs, both of which are AGO-bound small RNAs, are essential for mammalian spermatogenesis. Although their precise germline roles remain largely uncharacterized, recent discoveries suggest that they function in mechanisms beyond microRNA-mediated post-transcriptional control, playing roles in DNA repair and transcriptional regulation within the nucleus. Here, we discuss the latest findings regarding roles for AGO proteins and their associated small RNAs in the male germline. We integrate genetic, clinical and genomics data, and draw upon findings from non-mammalian models, to examine potential roles for AGO-bound small RNAs during spermatogenesis. Finally, we evaluate the emerging and differing roles for AGOs and AGO-bound small RNAs in the male and female germlines, suggesting potential reasons for these sexual dimorphisms.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -67,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pubmed.ncbi.nlm.nih.gov/32157385
+url_pdf: https://pubmed.ncbi.nlm.nih.gov/27578177
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -98,12 +64,3 @@ projects: []
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
