@@ -20,7 +20,7 @@ authors:
 - McDermott MW
 - Costello JF
 - Raleigh DR
-date: ""2020-02-00T00:00:00Z""
+date: "2020-02-00T00:00:00Z"
 doi: "10.1016/j.celrep.2020.01.018 [doi]"
 
 # Schedule page publish date (NOT publication date).
@@ -36,7 +36,7 @@ publication_types: ["2"]
 publication: "*Cell Rep;30*(5):1300-1309.e5"
 publication_short: ""
 
-abstract: "Ependymomas exist within distinct genetic subgroups, but the molecular diversity within individual ependymomas is unknown. We perform multiplatform molecular profiling of 6 spatially distinct samples from an ependymoma with C11orf95-RELA fusion. DNA methylation and RNA sequencing distinguish clusters of samples according to neuronal development gene expression programs that could also be delineated by differences in magnetic resonance blood perfusion. Exome sequencing and phylogenetic analysis reveal epigenomic intratumor heterogeneity and suggest that chromosomal structural alterations may precede accumulation of single-nucleotide variants during ependymoma tumorigenesis. In sum, these findings shed light on the oncogenesis and intratumor heterogeneity of ependymoma."
+abstract: Ependymomas exist within distinct genetic subgroups, but the molecular diversity within individual ependymomas is unknown. We perform multiplatform molecular profiling of 6 spatially distinct samples from an ependymoma with C11orf95-RELA fusion. DNA methylation and RNA sequencing distinguish clusters of samples according to neuronal development gene expression programs that could also be delineated by differences in magnetic resonance blood perfusion. Exome sequencing and phylogenetic analysis reveal epigenomic intratumor heterogeneity and suggest that chromosomal structural alterations may precede accumulation of single-nucleotide variants during ependymoma tumorigenesis. In sum, these findings shed light on the oncogenesis and intratumor heterogeneity of ependymoma.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -80,11 +80,11 @@ slides: ""
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into the ir reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{% alert note %}}
-Click the *Slides* button above to demo Academics Markdown slides feature.
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -39,7 +39,7 @@ authors:
 - Costello JF
 - Perry A
 - Solomon DA
-date: ""2020-05-01T00:00:00Z""
+date: "2020-05-01T00:00:00Z"
 doi: "10.1007/s00401-020-02144-8 [doi]"
 
 # Schedule page publish date (NOT publication date).
@@ -55,7 +55,7 @@ publication_types: ["2"]
 publication: "*Acta Neuropathol;139*(5):953-957"
 publication_short: ""
 
-abstract: ""
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
@@ -99,11 +99,11 @@ slides: ""
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into the ir reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{% alert note %}}
-Click the *Slides* button above to demo Academics Markdown slides feature.
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
