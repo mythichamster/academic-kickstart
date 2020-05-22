@@ -48,6 +48,9 @@ social:
 - icon: pubmed
   icon_pack: ai
   link: https://www.ncbi.nlm.nih.gov/pubmed/?term=Hilz%20S%5BAuthor%5D&cauthor=true&cauthor_uid=27578177
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=36k5FMUAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/srhilz
